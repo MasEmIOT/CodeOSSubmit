@@ -1,0 +1,5 @@
+0x10e97c25	my_i2c_start	/home/pi/Downloads/final2_2/Operating_System_Project_Nhom3-main/NewCode/soft_i2c	EXPORT_SYMBOL	
+0x93887e8e	my_i2c_stop	/home/pi/Downloads/final2_2/Operating_System_Project_Nhom3-main/NewCode/soft_i2c	EXPORT_SYMBOL	
+0x8985cfe1	my_i2c_wait_ack	/home/pi/Downloads/final2_2/Operating_System_Project_Nhom3-main/NewCode/soft_i2c	EXPORT_SYMBOL	
+0xcc7be3bc	my_i2c_write_byte	/home/pi/Downloads/final2_2/Operating_System_Project_Nhom3-main/NewCode/soft_i2c	EXPORT_SYMBOL	
+0x20b90bfc	my_i2c_read_byte	/home/pi/Downloads/final2_2/Operating_System_Project_Nhom3-main/NewCode/soft_i2c	EXPORT_SYMBOL	
